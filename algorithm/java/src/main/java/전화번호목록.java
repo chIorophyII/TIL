@@ -1,6 +1,6 @@
 import java.util.*;
 
-class PhoneNumList {
+class 전화번호목록 {
     public boolean solution(String[] phoneBook) {
         Arrays.sort(phoneBook);
 
