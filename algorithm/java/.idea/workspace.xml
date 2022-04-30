@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29c5d548-84c2-4690-baf9-8d2806a2381c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/backjoon/turret.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/backjoon/addCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/backjoon/addCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/backjoon/turret.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/backjoon/turret.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,7 @@
       <updated>1650900145502</updated>
       <workItem from="1650900147537" duration="50881000" />
       <workItem from="1651114791662" duration="5017000" />
-      <workItem from="1651291907150" duration="11528000" />
+      <workItem from="1651291907150" duration="12775000" />
     </task>
     <servers />
   </component>
