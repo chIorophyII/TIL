@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29c5d548-84c2-4690-baf9-8d2806a2381c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/backjoon/balancedworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backjoon/bracket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backjoon/stacksequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/balancedworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/balancedworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/zero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/backjoon/balancedworld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/backjoon/balancedworld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/backjoon/bracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/backjoon/bracket.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python/backjoon/getPrime.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/backjoon/getPrime.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +44,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../BootCamp/Week_9/startUp_BE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="애플리케이션.bracket">
+  <component name="RunManager" selected="애플리케이션.balancedworld">
     <configuration name="balancedworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjoon.balancedworld" />
       <module name="java" />
@@ -116,10 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.bracket" />
         <item itemvalue="애플리케이션.balancedworld" />
-        <item itemvalue="애플리케이션.stacksequence" />
         <item itemvalue="애플리케이션.zero" />
+        <item itemvalue="애플리케이션.bracket" />
+        <item itemvalue="애플리케이션.stacksequence" />
         <item itemvalue="애플리케이션.stack" />
       </list>
     </recent_temporary>
@@ -135,7 +137,8 @@
       <workItem from="1650900147537" duration="50881000" />
       <workItem from="1651114791662" duration="5017000" />
       <workItem from="1651291907150" duration="14132000" />
-      <workItem from="1651378277990" duration="19704000" />
+      <workItem from="1651378277990" duration="21523000" />
+      <workItem from="1651638877006" duration="5062000" />
     </task>
     <servers />
   </component>
