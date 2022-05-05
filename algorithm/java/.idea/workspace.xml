@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29c5d548-84c2-4690-baf9-8d2806a2381c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/backjoon/maxheap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backjoon/queue2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/stacksequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/stacksequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjoon/minheap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +132,7 @@
       <workItem from="1651114791662" duration="5017000" />
       <workItem from="1651291907150" duration="14132000" />
       <workItem from="1651378277990" duration="21523000" />
-      <workItem from="1651638877006" duration="7778000" />
+      <workItem from="1651638877006" duration="8560000" />
     </task>
     <servers />
   </component>
