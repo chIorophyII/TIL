@@ -15,7 +15,7 @@ class meetingroom {
             StringTokenizer st = new StringTokenizer(br.readLine());
             int start = Integer.parseInt(st.nextToken());
             int end = Integer.parseInt(st.nextToken());
-            if ()
+//            if ()
         }
     }
 }

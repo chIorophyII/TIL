@@ -14,7 +14,7 @@ for i in range(n):
 
 time_table = sorted(time_table.items())
 
-for start in range(len(time_table)):
-    for end in range(len(time_table[start])):
-        
+# for start in range(len(time_table)):
+#     for end in range(len(time_table[start])):
+
 print(time_table)
