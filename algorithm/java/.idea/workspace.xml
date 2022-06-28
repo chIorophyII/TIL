@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29c5d548-84c2-4690-baf9-8d2806a2381c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/backjoon/implement/roomnumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/backjoon/greedy/meetingroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/backjoon/greedy/meetingroom.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +139,7 @@
       <workItem from="1655439993216" duration="2571000" />
       <workItem from="1655639460671" duration="1282000" />
       <workItem from="1655788891247" duration="121000" />
-      <workItem from="1655790688024" duration="16734000" />
+      <workItem from="1655790688024" duration="21609000" />
     </task>
     <servers />
   </component>
