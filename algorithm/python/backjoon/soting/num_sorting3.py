@@ -2,7 +2,7 @@ import sys
 
 In = sys.stdin.readline
 N = int(In())
-num_list = [0] * 10001
+num_list = [0] * 10001 # 계수 정렬
 
 for i in range(N):
     num_list[int(In())] += 1
